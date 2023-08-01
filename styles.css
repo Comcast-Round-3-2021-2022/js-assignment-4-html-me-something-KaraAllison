@@ -13,6 +13,12 @@ p {
     line-height: 1.5;
 }
 
+.imgDiv {
+    float: right;
+    margin: 10px;
+    margin-right: 10%;
+}
+
 header {
     text-align: center;
 }
